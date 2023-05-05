@@ -1,0 +1,81 @@
+
+body{
+
+    background-color: black;
+}
+
+header{
+    background-color: grey;
+    font-size: larger;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+h1 {
+
+    color: rgb(52, 126, 52);
+    font-size: 30px;
+}
+
+h2 {
+
+    color:white;
+    font-size: 20px;
+}
+
+h3 {
+    color: green;
+    font-size: 15px;
+}
+
+p {
+    color: white;
+    font-size: 15px;
+
+}
+
+.cara {
+    margin-left: 500px;
+    border-radius: 700px;
+    border-style: dashed;
+    border-color: green;
+    
+}
+
+h4 {
+    color: green;
+    font-size: 15px;
+}
+
+h5 {
+    color: green;
+    font-size: 15px;
+}
+
+.gat {
+    width: 5%;
+    margin-left: 500px;
+
+}
+
+.in {
+    width: 5%;
+    margin-left: 25px;
+
+}
+
+form{
+    color: white;
+    
+}
+
+a {
+    color: white;
+    margin: 50px;
+}
+
+.gif {
+    margin-left: 500px;
+
+}
